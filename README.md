@@ -12,14 +12,20 @@
 
 ###  Informações pessoais:
 Nome:  [Pessoal]
+
 Idade: [Pessoal]
+
 Nick: Nightter
+
 Nick Profissional: Liveira
+
 País de origem: Brasil
+
 Estado: Lagarto/Sergipe
 
 ### Habilidades:
 Linguagem Primaria: C# (Intermediário)
+
 Linguagem Segundaria: Python (Novato)
 
  - [x] Aprender C# < Básico >
