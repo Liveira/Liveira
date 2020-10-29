@@ -1,6 +1,6 @@
 
 
-![enter image description here](https://cdn.discordapp.com/attachments/664878076689383427/771114686078910504/Sem_Titulo-1.png)
+![enter image description here](https://media.discordapp.net/attachments/664878076689383427/771330152096727050/Sem_Titulo-4.png)
 # ***Bem vindo ao meu perfil!***
 
     //C#
@@ -12,20 +12,14 @@
 
 ###  Informações pessoais:
 Nome:  [Pessoal]
-
 Idade: [Pessoal]
-
 Nick: Nightter
-
 Nick Profissional: Liveira
-
 País de origem: Brasil
-
 Estado: Lagarto/Sergipe
 
 ### Habilidades:
 Linguagem Primaria: C# (Intermediário)
-
 Linguagem Segundaria: Python (Novato)
 
  - [x] Aprender C# < Básico >
