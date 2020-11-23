@@ -31,9 +31,9 @@ Linguagem Segundaria: Python (Novato)
  - [x]  Aprender C# < Intermediário > 
  - [ ] Aprender C# < Avançado > 
  - [x] Aprender Python < Básico >
- - [ ] Aprender Python < Intermediário > 
+ - [x] Aprender Python < Intermediário > 
  - [ ] Aprender Python < Avançado
-
+ 
  ### Trabalhos Recente:
 - Nidit - Bloco de notas ( C# )
 - Andr... - Jogo ( C# ) 
