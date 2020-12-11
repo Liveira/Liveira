@@ -24,11 +24,11 @@ País de origem: Brasil
 Estado: Lagarto/Sergipe
 
 ### Habilidades:
-Linguagem Primaria: C# (Intermediário)
-Linguagem Segundaria: Python (Novato)
+Linguagem Primaria: Python (Intermediário)
+Linguagem Segundaria: C# (Novato)
 
  - [x] Aprender C# < Básico >
- - [x]  Aprender C# < Intermediário > 
+ - []  Aprender C# < Intermediário > 
  - [ ] Aprender C# < Avançado > 
  - [x] Aprender Python < Básico >
  - [x] Aprender Python < Intermediário > 
