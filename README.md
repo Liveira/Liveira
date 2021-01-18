@@ -35,6 +35,8 @@ Linguagem Segundaria: C# (Novato)
  - [ ] Aprender Python < Avançado
  
  ### Trabalhos Recente:
+- SphyX - Bot de discord ( Python )
+- Andrew o guia! - Bot de discord ( Python )
 - Nidit - Bloco de notas ( C# )
 - Andr... - Jogo ( C# ) 
 - GreenitBot - Bot de discord ( Javascript )
