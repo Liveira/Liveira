@@ -1,6 +1,4 @@
 
-
-![enter image description here](https://media.discordapp.net/attachments/664878076689383427/771330152096727050/Sem_Titulo-4.png)
 # ***Bem vindo ao meu perfil!***
 
     //C#
