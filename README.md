@@ -27,8 +27,10 @@ Estado: Lagarto/Sergipe
 Linguagem Primaria: Python (Intermediário)
 Linguagem Segundaria: C# (Novato)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Liveira&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liveira&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  - [x] Aprender C# < Básico >
- - []  Aprender C# < Intermediário > 
+ - [ ]  Aprender C# < Intermediário > 
  - [ ] Aprender C# < Avançado > 
  - [x] Aprender Python < Básico >
  - [x] Aprender Python < Intermediário > 
@@ -38,10 +40,4 @@ Linguagem Segundaria: C# (Novato)
 - SphyX - Bot de discord ( Python )
 - Andrew o guia! - Bot de discord ( Python )
 - Nidit - Bloco de notas ( C# )
-- Andr... - Jogo ( C# ) 
-- GreenitBot - Bot de discord ( Javascript )
 
-
-# My Cat :3
- 
-![My Cat](https://cdn.discordapp.com/attachments/664878076689383427/771105317093244928/01c5c213-38e8-48a4-8872-44a202198a33.jpg)
